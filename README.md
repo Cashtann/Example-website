@@ -1,6 +1,4 @@
 # Example-website
-Here is my example website, very basic
 
-you have to drag everything to a folder
+Made in primary school for some grade, btw.
 
-there is a "href" inside a code, you have to paste url into it
